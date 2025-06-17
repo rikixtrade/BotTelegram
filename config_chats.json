@@ -1,0 +1,14 @@
+{
+    "-100123456789": {
+        "topics": {
+            "2": {
+                "palabras_prohibidas": ["spam", "odio"],
+                "mensaje_alerta": "⚠️ @{username}, no digas eso aquí."
+            }
+        },
+        "config_general": {
+            "dar_bienvenida": true,
+            "mensaje_bienvenida": "¡Bienvenido @{username}! Usa /reglas."
+        }
+    }
+}
