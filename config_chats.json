@@ -1,0 +1,19 @@
+{
+    "-100123456789": {
+        "palabras_prohibidas_general": [
+            "puta", "pta", "putg", "put4",
+            "maricon", "micon", 
+            "conchatumadre", "ctm",
+            "estupido", "estúpido",
+            "negro", "nagro",
+            "cp", "child porn",
+            "hijo de puta", "hdp",
+            "huevón", "wevon"
+        ],
+        "enlaces_permitidos": [
+            "youtube.com",
+            "google.com"
+        ],
+        "mensaje_alerta": "⚠️ Mensaje eliminado por contenido inapropiado"
+    }
+}
