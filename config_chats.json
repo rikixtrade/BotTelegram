@@ -1,0 +1,20 @@
+{
+    "-1002553427095": {
+        "palabras_prohibidas_general": [
+            "puta", 
+            "cp", 
+            "maricon", 
+            "mmvrg", 
+            "negro",
+            "estúpido",
+            "idiota"
+        ],
+        "enlaces_permitidos": [
+            "youtube.com",
+            "google.com"
+        ],
+        "dar_bienvenida": true,
+        "mensaje_bienvenida": "¡Bienvenido @{username}! Usa /reglas.",
+        "mensaje_alerta": "🚨 @{username}, mensaje eliminado por contenido inapropiado."
+    }
+}
